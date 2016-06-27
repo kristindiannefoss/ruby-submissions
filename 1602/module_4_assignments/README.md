@@ -1,6 +1,6 @@
 # Submissions for Module 4 Assignments
 
-This repository is used to collect submissions of assignments for 1511 in Module 4.
+This repository is used to collect submissions of assignments for 1602 in Module 4.
 
 In this folder, we will add yet another folder for each major assignment - and a link in this README to where they can be submitted.
 
